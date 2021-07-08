@@ -9,6 +9,12 @@ Steve loves the workbook that was prepared for him. At the click of a button, St
 Make the Module 2 code more efficient by Refactoring. Determine whether refactoring the code makes the VBA script run faster.  Provide Steve with the same data analysis that was provided in the greenstocks workbook.
 
 ## Results
+Refactoring the code made the VBA script run faster compared to the original. 
+
+![2017_Original_Code](Resources/2017_Original_Code.PNG)
+![2018_Original_Code](Resources/2018_Original_Code.PNG)
+![VBA_Challenge_2017](Resources/VBA_Challenge_2017.PNG)
+![VBA_Challenge_2018](Resources/VBA_Challenge_2018.PNG)
 
 ## Summary
 
