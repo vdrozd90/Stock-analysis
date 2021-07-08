@@ -19,6 +19,10 @@ After refactoring the code, the run time for the new VBA Script for both 2017 an
 ![VBA_Challenge_2017](Resources/VBA_Challenge_2017.PNG)
 ![VBA_Challenge_2018](Resources/VBA_Challenge_2018.PNG)
 
+The original script contained a nested loop. The refactored script removed the nested loop and created a separate loop for the Output. Below is a screenshot of the refactored code:
+
+![Refactored_Code_Loops](Resources/Refactored_Code_Loops.PNG)
+
 ## Summary
 
 ### Advantages & Disadvantages of Refactoring Code
